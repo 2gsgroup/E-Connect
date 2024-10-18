@@ -1,5 +1,3 @@
----
-
 # E-connect Event Management System (EMS)
 
 **E-connect** is an event management platform aimed at simplifying the process of creating, managing, and attending events. Designed by **2GS Group**, this system allows event organizers to handle event creation, ticket sales, RSVP tracking, and secure payment integration. The Minimum Viable Product (MVP) for Phase 1 focuses on core functionality for both event organizers and attendees.
@@ -115,5 +113,3 @@ Contributions are welcome! If you want to contribute to the project, please open
 ## License
 
 This project is licensed under the MIT License.
-
----
